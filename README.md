@@ -5,3 +5,6 @@ Webhook test update for Zuul CI.
 <- Zuul CI test -->
 
 Live log streaming verification test.
+Log publishing verification test.
+
+Testing Zuul live log streaming and completed build log publishing.
